@@ -11189,10 +11189,10 @@ header.masthead .post-heading .meta a {
 }
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: 12.5rem;
-    padding-bottom: 12.5rem;
+    padding-top: 9.5rem;
+    padding-bottom: 9.5rem;
   }
-  header.masthead .page-heading h1, header.masthead .page-heading .h1,
+  header.masthead .page-heading h1, header.masthead .row .h1,
 header.masthead .site-heading h1,
 header.masthead .site-heading .h1 {
     font-size: 5rem;
