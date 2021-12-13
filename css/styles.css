@@ -11012,6 +11012,10 @@ p a {
   text-decoration: underline;
 }
 
+ol a {
+  text-decoration: underline;
+}
+
 blockquote {
   font-style: italic;
   color: #6c757d;
@@ -11118,10 +11122,10 @@ footer {
 }
 
 header.masthead {
-  position: relative;
-  margin-bottom: 3rem;
-  padding-top: calc(8rem + 57px);
-  padding-bottom: 8rem;
+  position:relative;
+  margin-bottom: 2rem;
+  padding-top: calc(3rem + 57px);
+  padding-bottom: 3rem;
   background: no-repeat center center;
   background-color: #6c757d;
   background-size: cover;
